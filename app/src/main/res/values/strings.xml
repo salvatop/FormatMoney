@@ -1,0 +1,11 @@
+<resources>
+    <string name="appName">Format Money</string>
+    <string name="submit">Format</string>
+    <string name="hint">enter the desired amount</string>
+    <string name="onlyNumbersAllowed">Only numbers allowed up to: <b>seventeen duocentillion
+                                      nine hundred and seventy-six uncentillion nine hundred
+                                      and thirty-one centillion three hundred and forty-eight
+                                      novenonagintillion six hundred and twenty-three octononagintillion
+                                      one hundred and fifty-seven septenonagintillion</b>(or it negative)</string>
+
+</resources>
