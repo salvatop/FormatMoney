@@ -1,4 +1,4 @@
-## Money Formatting
+## Money Formatting ![android APP](android-icon.jpg)
 
 *FormatMoney* it’s a small utility which take dynamically from the user input any number and it return the string representation in it decimal form. (eg 1600 -> 1 600.00)
 
