@@ -19,7 +19,7 @@
  ### Test Basis
  
 - Check the functionalities fo the code that correctly translate numbers to a string in decimal form
-- Check the code implementation is able to handle unxpected input or expections gracefully
+- Check the code implementation is able to handle unexpected inputs or exceptions gracefully
 - Check the UI allow to capture the user input and pass it to the backend
 - Check all the elements of the UI are correcly pesent, displayed and interactivable
 
