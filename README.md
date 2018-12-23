@@ -4,7 +4,7 @@
 
 ### Project Code Structure
 
- app/src contains
+ app/src contains:
   - androidTest (automated UI test)
     - assets (contains the feature files BDD story)
     - StepDefinitions (actual test code)
@@ -37,7 +37,7 @@
  
  
 ### Requirements
-The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 device with API level 27(oreo), unit test have been performed with Junit for Android, the UI automated tests have been implemented and performed with Android Espresso 3.0.2
+The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 device with API level 27(oreo), unit tests have been performed with Junit for Android, the UI automated tests have been implemented and performed with Android Espresso 3.0.2
 
 - Gradle 4.9
 - JDK 1.8
