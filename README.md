@@ -47,6 +47,6 @@ The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 de
 
 **- To run Unit test : ./gradlew test**
 
-**- To run UI automated test(simulator should be up and running): ./gradlew connectAndroidTest**
+**- To run UI automated test(simulator should be up and running): ./gradlew connectedAndroidTest**
  
  
