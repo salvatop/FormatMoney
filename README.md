@@ -1,6 +1,6 @@
-## Money Formatting ![android APP](android-icon.jpg)
+## Format Money![android APP](android-icon.jpg)
 
-*FormatMoney* it’s a small utility which take dynamically from the user input any number and it return the string representation in it decimal form. (eg 1600 -> 1 600.00)
+Format Money(aka *money formatting*) it’s a small utility which take dynamically from the user input any number and it return the string representation in it decimal form. (eg 1600 -> 1 600.00)
 
 ### Project Code Structure
 
@@ -21,7 +21,7 @@
 - Check the functionalities fo the code that correctly translate numbers to a string in decimal form
 - Check the code implementation is able to handle unexpected inputs or exceptions gracefully
 - Check the UI allow to capture the user input and pass it to the backend
-- Check all the elements of the UI are correcly pesent, displayed and interactivable
+- Check all the elements of the UI are correctly present, displayed and interactive
 
 
  ### Test Methodologies
