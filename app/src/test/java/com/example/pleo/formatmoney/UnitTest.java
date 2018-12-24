@@ -90,7 +90,8 @@ public class UnitTest {
             secondCounter++;
         }
     }
-
+    
+    @Ignore
     @Test
     public void fuzzTest() throws FileNotFoundException {
         File file = new File(
