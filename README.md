@@ -43,7 +43,7 @@ The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 de
 - JDK 1.8
 - Android SDK 27
 
-### How too's
+### How to's
 
 - run the APP the Main class need to be executed
 
