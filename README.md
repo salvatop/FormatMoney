@@ -52,5 +52,6 @@ The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 de
 
 - run UI automated test(simulator should be up and running): ./gradlew connectedAndroidTest -i
 (report will be generated under: app/build/reports/androidTest/connected)
+- run a working compiled signed APK of the app: https://github.com/salvatop/FormatMoney/blob/master/app-release.apk.zip
  
  
