@@ -43,10 +43,14 @@ The project was implemented with Android Studio 3.2 and debugged on a Nexus 5 de
 - JDK 1.8
 - Android SDK 27
 
-**- To run the APP the Main class need to be executed**
+### How too's
 
-**- To run Unit test : ./gradlew test**
+- run the APP the Main class need to be executed
 
-**- To run UI automated test(simulator should be up and running): ./gradlew connectedAndroidTest**
+- run Unit test : ./gradlew test -i
+(report will be generated under: app/build/reports/test/testDebugUnitTest)
+
+- run UI automated test(simulator should be up and running): ./gradlew connectedAndroidTest -i
+(report will be generated under: app/build/reports/androidTest/connected)
  
  
