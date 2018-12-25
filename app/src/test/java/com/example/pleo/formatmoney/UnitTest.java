@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 
 public class UnitTest {
 
-    //javadocs Double.html#valueOf-java.lang.String
+    //javadocs Double.valueOf
     private boolean isAParsableNumber(String input) {
         final String Digits = "(\\p{Digit}+)";
         final String HexDigits = "(\\p{XDigit}+)";
