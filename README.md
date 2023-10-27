@@ -1,6 +1,6 @@
-## Format Money![android APP](android-icon.jpg)
+## Decimal Converter ![android APP](android-icon.jpg)
 
-Format Money(aka *money formatting*) it’s a small utility which take dynamically from the user input any number and it return the string representation in it decimal form. (eg 1600 -> 1 600.00)
+Decimal Converter it’s a small utility which take dynamically from the user input any number and it return the string representation in it decimal form. (eg 1600 -> 1 600.00)
 
 ### Project Code Structure
 
